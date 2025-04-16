@@ -39,6 +39,11 @@ td {
     border-bottom: 1px solid #f0f0f0;
 }
 
+thead tr:hover{
+    background-color: #086fb8;
+    color: white;
+    cursor: auto;
+}
  tr:hover {
     background-color: #d3cfeb;
     cursor: pointer;
